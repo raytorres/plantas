@@ -1,0 +1,49 @@
+.fondo{
+	background: gray;
+	font-family: sans-serif;
+}
+
+.titulo{
+	color: black;
+	text-align: center;
+	background: turquoise;
+	font-display: cursive;
+
+}
+nav ul li{
+	/*flotar los links de la lista*/
+	float: left;
+	/*codigo para adquirir estilo de lista*/
+	list-style: none;
+	line-height: 30px;
+	padding-left: 20px;
+	background: white;
+	
+}
+.limpiar{
+	clear: both;
+}
+
+.contenido{
+	background: white;
+	float: left;
+	height: 300px;
+	width: 78%;
+	border: black solid;
+}
+
+	
+	
+.lateral{
+	background:turquoise;
+	float: left;
+	height: 300px;
+	width: 20%;
+	border: black solid;
+}
+.piedepagina{
+	background: turquoise;
+	color: white;
+	padding: 10px;
+    border: black solid;
+}
